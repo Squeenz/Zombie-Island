@@ -1,0 +1,7 @@
+Game Mode: CUSTOM [-] Player: NEW TEST [-] Game Status: LOSS
+Game Mode: MEDIUM [-] Player: YOGI [-] Game Status: LOSS
+Game Mode: EASY [-] Player: yGOI [-] Game Status: LOSS
+Game Mode: CUSTOM [-] Player: YOGI [-] Game Status: LOSS
+Game Mode: CUSTOM [-] Player: YOGI [-] Game Status: LOSS
+Game Mode: CUSTOM [-] Player: YOGI [-] Game Status: LOSS
+Game Mode: CUSTOM [-] Player: YOGI [-] Game Status: LOSS

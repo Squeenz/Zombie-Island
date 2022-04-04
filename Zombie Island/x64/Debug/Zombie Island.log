@@ -1,0 +1,5 @@
+﻿  Source.cpp
+G:\University Work\2021 - 2022\C++ Programming For Game Developers\Zombie Island\Assingment 2 [MOST RECENT SOME PARTS REMOVED]- Zombie Island\Zombie Island\Zombie Island\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+G:\University Work\2021 - 2022\C++ Programming For Game Developers\Zombie Island\Assingment 2 [MOST RECENT SOME PARTS REMOVED]- Zombie Island\Zombie Island\Zombie Island\Source.cpp(432): warning C4715: 'Game::getGameMode': not all control paths return a value
+G:\University Work\2021 - 2022\C++ Programming For Game Developers\Zombie Island\Assingment 2 [MOST RECENT SOME PARTS REMOVED]- Zombie Island\Zombie Island\Zombie Island\Source.cpp(247): warning C4715: 'Monster::movement': not all control paths return a value
+  Zombie Island.vcxproj -> G:\University Work\2021 - 2022\C++ Programming For Game Developers\Zombie Island\Assingment 2 [MOST RECENT SOME PARTS REMOVED]- Zombie Island\Zombie Island\x64\Debug\Zombie Island.exe
